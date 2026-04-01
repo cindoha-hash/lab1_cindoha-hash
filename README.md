@@ -67,7 +67,6 @@ A student passes only if both:
 
 ## Example Output
 
---- Processing Grades ---
 Final Grade: 60.00%
 GPA: 3.00 / 5.00
 Formative Average: 56.67%
