@@ -1,12 +1,12 @@
 Lab 1 - Grade Evaluator & Archiver
 
-This project includes a Python script to evaluate student grades from a CSV file and a Bash script to archive the current `grades.csv` file for future use.
+This project includes a Python script that evaluate student grades from a CSV file and a Bash script to archive the current `grades.csv` file for future use.
 
  1.Files Included
  
 - grade-evaluator.py
 - organizer.sh
-- Readme.md
+- README.md
 - grades.csv (for testing)
 
  2.Requirements
